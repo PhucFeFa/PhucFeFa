@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>✨ LamPuhc (PhucFeFa) ✨</h1>
+  <h1>LamPuhc (PhucFeFa)</h1>
 
   <!-- Frieren Pixel GIF Header -->
   <img src="assets/frieren-pixel-pixel-frieren.gif" width="900" style="border-radius: 12px;" alt="Frieren Pixel Animation" />
@@ -17,8 +17,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,docker,figma&perline=14" />
 </div>
@@ -27,11 +25,8 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhucFeFa&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhucFeFa&theme=tokyonight&hide_border=true&layout=compact" height="175" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhucFeFa&theme=tokyonight&hide_border=true" height="190" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -44,8 +39,6 @@
 
 ---
 
-### 🏆 3D Contribution Graph
-
 <div align="center">
   <img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" width="95%"/>
 </div>
@@ -53,8 +46,6 @@
 <br/>
 
 ---
-
-### 🐍 Contribution Snake
 
 <div align="center">
   <picture>
