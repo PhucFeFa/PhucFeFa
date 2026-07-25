@@ -55,10 +55,4 @@
   </picture>
 </div>
 
-<br/>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f2fe,100:0d1117&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20%E2%9C%A8&fontSize=20&fontColor=ffffff" width="100%"/>
-</div>
