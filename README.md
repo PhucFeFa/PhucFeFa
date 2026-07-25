@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm LamPuhc (PhucFeFa)</h1>
 
 <p align="center">
+  <img src="assets/frieren-pixel-pixel-frieren.gif" width="350" alt="Frieren Pixel" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=PhucFeFa&label=Profile%20views&color=0e75b6&style=flat" alt="PhucFeFa" />
 </p>
 
